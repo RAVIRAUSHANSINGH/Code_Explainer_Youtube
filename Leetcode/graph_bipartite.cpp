@@ -14,7 +14,7 @@ public:
                 if(color[i]==color[j]) return false;
             }
         }
-        return true;-
+        return true;
     }
     
     bool isBipartite(vector<vector<int>>& graph) {
